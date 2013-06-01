@@ -33,3 +33,8 @@ Go 言語のサンプルプログラムたちです。
 
     x := 3
 
+## TODO
+
+    * regexp
+    * json parsing
+
