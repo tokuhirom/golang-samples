@@ -37,4 +37,6 @@ Go 言語のサンプルプログラムたちです。
 
     * regexp
     * json parsing
+    * yaml parsing
+    * oo
 
